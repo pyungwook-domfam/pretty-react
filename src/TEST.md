@@ -23,11 +23,7 @@
 +--------- index.js - 폴더내 api 파일은 index 에서 통합 관리 및 사용 (Home.js - import 참조)
 +----- [app] - 앱 전반에 관련
 +--------- constants.js - 상수
-+--------- History.js - history
-+--------- index.js - app 내 js import
-+--------- Navigation.js - 네비게이션 모듈
-+--------- router.js - 라우터
-+--------- slice.js - 글로벌 slice (Redux)
+   assdcfkavbjll
 +--------- store.js - Redux(reduxjs/toolkit 기반)
 +----- [assets] - 정적 리소스
 +--------- [css] - css
