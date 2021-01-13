@@ -1,16 +1,5 @@
 # 개발 가이드
 
--   LG HelloVision 미디어기술팀 신현승 (bbakbbak@lghv.net)
-
-| project | status | description |
-|--------|--------|-------------|
-| axios | ^0.20.0 | Promise based HTTP client for XMLHttpRequests |
-| bootstrap-vue | ^2.17.0 | Framework for building responsive, mobile-first sites |  
-| sass | 1.27.0 |Mmature, stable, and powerful professional grade CSS Extension Language |
-| vue-awesome-swiper | 4.1.1 | Swiper component for Vue.js |
-| vue-i18n | 8.17.3 | Internationalization plugin for Vue.js |
-| vue-moment | 4.1.0 | Parse, validate, manipulate, and display dates and times in Vue.js project |
-
 ## React
 
 ### 초기 세팅
