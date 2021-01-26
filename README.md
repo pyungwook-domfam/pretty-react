@@ -15,37 +15,25 @@
 ### Views structure
 ```text
 +-- views
-| +-- favicon.ico
-| +-- index.html
-| +-- main.js
-| +-- App.vue
-| +-- assets
-| +-- components 컴포넌트
+| +-- Cart.vue
+| +-- Detail.vue
+| +-- Main.vue
+| +-- Purchase.vue
+| +-- QRDetail.vue
+| +-- QRList.vue
 ```
 
 ### Components structure
 ```text
-+-- public
-| +-- favicon.ico
-| +-- index.html
-+-- src
-| +-- main.js
-| +-- App.vue
-| +-- assets
-| +-- components 컴포넌트
-| | +-- 공통 컴포넌트
-| | +-- ... 그 외 컴포넌트
-| +-- routes 라우터
-| +-- store Vuex
-| +-- views 뷰
-| | +-- 메인 화면
-| | +-- 상품 상세 화면
-| | +-- ... 그 외 화면
-| +-- api 외부 구현 API
-+-- babel.config.js
-+-- package.json
-+-- vue.config.js Vue 설정 모듈을 가져와서 BUILD_TYPE별로 설정
-+-- README.md
++-- components
+| +-- popup
+| | +-- Alert.vue
+| | +-- Confirm.vue
+| | +-- Option.vue
+| +-- skeleton
+| | +-- ... 각 화면 별 영역 로딩 전 스켈레톤
+| +-- Header.vue
+| +-- MainList.vue
 ```
 
 
